@@ -19,6 +19,6 @@
 
 <div align="center">
   <a href="https://wakatime.com/@84a6c8df-51f3-408d-a6de-23c01378b1fe">
-    <img width="80%" align="center" src="https://wakatime.com/share/@lasuillard/ded48ab4-b4d2-4fac-887b-b1d7d14003f3.svg" />
+    <img align="center" src="https://wakatime.com/share/@lasuillard/ded48ab4-b4d2-4fac-887b-b1d7d14003f3.svg" />
   </a>
 </div>
