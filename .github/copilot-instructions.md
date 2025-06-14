@@ -1,12 +1,6 @@
-# Copilot Instructions for lasuillard/lasuillard
+## Abstract
 
-This repository serves as a central profile and information hub for the user "lasuillard" on GitHub. It is intended for managing personal and professional information, automating repeated tasks, and generating structured data for use in other repositories.
-
-## General Guidelines
-
-- Generate concise, maintainable, and well-documented code.
-- When creating structured data (e.g., JSON, YAML), ensure it is valid and easy to consume by other tools or repositories.
-- For automation scripts, prefer clarity and reliability over brevity.
+This repository (lasuillard/lasuillard) is the central profile and information hub for the user **"lasuillard"** on GitHub. It manages personal/professional information, automates repeated tasks, and generates structured data for use in other repositories.
 
 ## Repository Use Cases
 
@@ -17,7 +11,13 @@ This repository serves as a central profile and information hub for the user "la
 
 ## AI/Automation Instructions
 
-- When asked to generate or update files, follow the above coding and formatting conventions.
-- Ensure all generated content is relevant to personal profile management or data centralization.
-- Avoid including sensitive or private information unless explicitly instructed.
-- There is some comment syntax (typically with `AI-` prefix) in the repository that is used to provide context for AI models, such as `<!-- AI-NOTE: ... -->`. Reference these comments to enrich current tasks or to understand the context of existing files.
+- When generating or updating files:
+  - Follow the coding and formatting conventions above.
+  - Ensure all content is relevant to personal profile management or data centralization.
+  - **Do not** include sensitive or private information unless explicitly instructed.
+
+## AI-NOTE Syntax
+
+- Some comments use an `AI-` prefix (e.g., `<!-- AI-NOTE: ... -->`) to provide context for AI models. You should follow:
+  - Reference these comments to enrich current tasks or understand file context.
+  - **Do not** add or modify these comments; they are managed exclusively by the human user to provide context for AI models.
