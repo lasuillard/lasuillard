@@ -22,7 +22,7 @@ Include the following sections in the resume:
 - Experience
 - Education
 
-Omit Projects section; instead, suggest readers visit the GitHub profile for project details.
+Omit Projects section for now.
 
 ## Guidelines
 

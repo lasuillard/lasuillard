@@ -153,8 +153,6 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 - **Craftsman Information Equipment Operation** - HRD Korea (Dec 05, 2016)
 - **Craftsman Information Processing** - HRD Korea (Feb 05, 2015)
 
-*For details about my projects, please visit my [GitHub profile](https://github.com/lasuillard).*
-
 ---
 
 <div align="center">
