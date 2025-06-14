@@ -6,7 +6,7 @@
 - **GitHub**: [lasuillard](https://github.com/lasuillard)
 
 ## 👋 자기소개
-Python, AWS 및 인프라 관리에 전문 지식을 갖춘 경험이 풍부한 백엔드 개발자입니다. 개발 워크플로우 및 CI/CD 파이프라인 자동화에 대한 열정을 가지고 확장 가능한 백엔드 시스템과 클라우드 인프라 구축에 중점을 둡니다. 현재 마이크로서비스 아키텍처와 Kubernetes를 탐구하면서 코드 인프라와 DevOps 모범 사례를 학습하고 있습니다.
+Python, AWS 및 인프라 관리에 전문 지식을 갖춘 경험이 풍부한 백엔드 개발자입니다. 개발 워크플로우 및 CI/CD 파이프라인 자동화에 대한 열정을 가지고 확장 가능한 백엔드 시스템과 클라우드 인프라 구축에 중점을 둡니다. 현재 마이크로서비스 아키텍처를 탐구하면서 코드 인프라와 DevOps 모범 사례를 학습하고 있습니다.
 
 ## 🛠️ 기술
 
@@ -35,7 +35,6 @@ Python, AWS 및 인프라 관리에 전문 지식을 갖춘 경험이 풍부한 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 
 ### 데이터베이스
@@ -160,6 +159,6 @@ Python, AWS 및 인프라 관리에 전문 지식을 갖춘 경험이 풍부한 
 
 <div align="center">
 
-_Updated with assist of AI at 2025-06-14T15:54:18+00:00_
+_Updated with assist of AI at 2025-06-14T16:45:30+00:00_
 
 </div>

@@ -6,7 +6,7 @@
 - **GitHub**: [lasuillard](https://github.com/lasuillard)
 
 ## 👋 Self Introduction
-Experienced backend developer with expertise in Python, AWS, and infrastructure management. Focused on building scalable backend systems and cloud infrastructure with a passion for automating development workflows and CI/CD pipelines. Currently exploring microservices architecture and Kubernetes while learning infrastructure as code and DevOps best practices.
+Experienced backend developer with expertise in Python, AWS, and infrastructure management. Focused on building scalable backend systems and cloud infrastructure with a passion for automating development workflows and CI/CD pipelines. Currently exploring microservices architecture while learning infrastructure as code and DevOps best practices.
 
 ## 🛠️ Skills
 
@@ -35,7 +35,6 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 
 ### Databases
@@ -160,6 +159,6 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 
 <div align="center">
 
-_Updated with assist of AI at 2025-06-14T15:54:18+00:00_
+_Updated with assist of AI at 2025-06-14T16:45:30+00:00_
 
 </div>

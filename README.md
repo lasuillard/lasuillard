@@ -17,9 +17,9 @@
 
 - 💪 Passionate about building scalable backend systems and cloud infrastructure
 - 🔧 Focused on automating development workflows and CI/CD pipelines
-- 🌱 Currently exploring microservices architecture and Kubernetes
+- 🌱 Currently exploring containerization solutions
 - 🧠 Interested in building reliable, maintainable systems
-- 👾 Learning about infrastructure as code and DevOps best practices
+- 👾 Learning about Rust development for CLI tools and services
 
 ## 🛠️ Skills
 
@@ -86,6 +86,6 @@
 
 <div align="center">
 
-_Updated with assist of AI at 2025-06-14T15:15:33+00:00_
+_Updated with assist of AI at 2025-06-14T16:30:45+00:00_
 
 </div>
