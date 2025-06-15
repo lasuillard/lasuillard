@@ -42,7 +42,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 
 ### 🗄️ Databases
@@ -55,15 +54,7 @@
 ![Dev Container](https://img.shields.io/badge/-Dev_Container-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=black)
 
-## 🚀 What I'm Working On
-
-- [raindrop-sync-chrome](https://github.com/lasuillard/raindrop-sync-chrome) - Chrome browser extension for syncing bookmarks with Raindrop.io
-- [aws-annoying](https://github.com/lasuillard/aws-annoying) - Utils to handle some annoying AWS tasks
-- [devobs](https://github.com/lasuillard/devobs) - CLI for obsessed developers in Rust
-- [pydantic-fixedwidth](https://github.com/lasuillard/pydantic-fixedwidth) - Custom Pydantic models for fixed-width format data
-- [django-slack-tools](https://github.com/lasuillard/django-slack-tools) - Helpers for working with Slack bots in Django
-
-## 📊 My Activities
+##  My Activities
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -86,6 +77,6 @@
 
 <div align="center">
 
-_Updated with assist of AI at 2025-06-14T16:30:45+00:00_
+_Updated with assist of AI at 2025-06-15T05:45:37+00:00_
 
 </div>
