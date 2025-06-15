@@ -1,0 +1,14 @@
+{
+  "about-me": {
+    "description": "Tools for searching and retrieving information about me.",
+    "icon": "github-project",
+    "tools": [
+      "fetch",
+      "githubRepo",
+      "search",
+      "search_code",
+      "search_repositories",
+      "search_users"
+    ]
+  }
+}
