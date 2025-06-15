@@ -1,6 +1,7 @@
 ---
+mode: agent
 description: Start a technical interview session with AI, using this repository as the candidate's resume.
-tools: ['codebase', 'fetch', 'findTestFiles', 'githubRepo', 'search', 'usages', 'search_code', 'search_repositories', 'search_users']
+tools: ['codebase', 'fetch', 'githubRepo', 'search', 'search_code', 'search_repositories', 'search_users']
 ---
 
 ## Purpose
