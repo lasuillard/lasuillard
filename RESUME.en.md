@@ -1,30 +1,24 @@
 # Yuchan Lee
 
-*Passionate backend developer focused on building scalable systems and cloud infrastructure*
+[![GitHub](https://img.shields.io/badge/-lasuillard-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lasuillard)
+[![Email](https://img.shields.io/badge/-lasuillard@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lasuillard@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9C%A0%EC%B0%AC-%EC%9D%B4-67751020b/)
+[![Blog](https://img.shields.io/badge/-blog.lasuillard.me-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://blog.lasuillard.me)
 
-## 📞 Contact Information
-- **GitHub**: [lasuillard](https://github.com/lasuillard)
-
-## 👋 Self Introduction
 Experienced backend developer with expertise in Python, AWS, and infrastructure management. Focused on building scalable backend systems and cloud infrastructure with a passion for automating development workflows and CI/CD pipelines. Currently exploring microservices architecture while learning infrastructure as code and DevOps best practices.
 
 ## 🛠️ Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
 
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-A30000?style=flat-square&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=Celery&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 ![Twisted](https://img.shields.io/badge/-Twisted-000000?style=flat-square&logo=Python&logoColor=white)
 
 ### Cloud & Infrastructure
@@ -33,14 +27,15 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 ![AWS ECS](https://img.shields.io/badge/-AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS Elastic Beanstalk](https://img.shields.io/badge/-AWS_Elastic_Beanstalk-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 
 ### Development Tools
@@ -48,7 +43,6 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Dev Container](https://img.shields.io/badge/-Dev_Container-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=black)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 
 ## 💼 Experience
 
@@ -157,6 +151,6 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 
 <div align="center">
 
-_Updated with assist of AI at 2025-06-14T16:45:30+00:00_
+_Updated with assist of AI at 2025-06-15T14:14:29+09:00_
 
 </div>
