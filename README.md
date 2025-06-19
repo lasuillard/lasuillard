@@ -54,7 +54,7 @@
 ![Dev Container](https://img.shields.io/badge/-Dev_Container-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=black)
 
-##  My Activities
+## 💻 My Activities
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
