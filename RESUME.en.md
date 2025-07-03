@@ -10,10 +10,12 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 ## 🛠️ Skills
 
 ### Programming Languages
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-A30000?style=flat-square&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
@@ -22,6 +24,7 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 ![Twisted](https://img.shields.io/badge/-Twisted-000000?style=flat-square&logo=Python&logoColor=white)
 
 ### Cloud & Infrastructure
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/-AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -33,12 +36,14 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 
 ### Development Tools
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Dev Container](https://img.shields.io/badge/-Dev_Container-2496ED?style=flat-square&logo=Docker&logoColor=white)
@@ -47,11 +52,13 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 ## 💼 Experience
 
 ### Earlypay - Backend Developer
+
 **December 2023 - Present**
 
 *Early payment service development and maintenance*
 
-#### Responsibilities:
+#### Responsibilities
+
 - **Infrastructure construction and management**
   - Building and managing AWS infrastructure using Terraform
   - Security vulnerability checking and improvement
@@ -67,7 +74,8 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
   - Setting up Docker + AWS Lambda crawler deployment environment
   - Implementing crawlers operating in Windows Server environment
 
-#### Technologies:
+#### Technologies
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/-AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -85,18 +93,21 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ### AIZEN Global - Backend Developer
+
 **December 2022 - August 2023**
 
 *Participated in Woori Card FDS advancement project and developed and maintained ABACUS AutoML solution*
 
-#### Responsibilities:
+#### Responsibilities
+
 - **Woori Card FDS advancement**
   - Maintained and developed features for Python Twisted-based FDS scoring server that processes approximately 7 million requests daily
   - Processing and analyzing large volumes of data using ClickHouse
 
 - **Development and maintenance of ABACUS AutoML solution**
 
-#### Technologies:
+#### Technologies
+
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -104,11 +115,13 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 ![Twisted](https://img.shields.io/badge/-Twisted-000000?style=flat-square&logo=Python&logoColor=white)
 
 ### Earlypay - Backend Developer
+
 **June 2021 - December 2021**
 
 *Development and launch of offline sales early payment service*
 
-#### Responsibilities:
+#### Responsibilities
+
 - **Early payment service development**
   - Web application development using Django framework
   - RESTful API server development using Django REST Framework
@@ -119,7 +132,8 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
   - Migrated existing Flask 1-based crawler implementation to FastAPI
   - Implemented VAN / delivery platform crawlers
 
-#### Technologies:
+#### Technologies
+
 ![AWS Elastic Beanstalk](https://img.shields.io/badge/-AWS_Elastic_Beanstalk-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=Celery&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-A30000?style=flat-square&logo=Django&logoColor=white)
@@ -135,6 +149,7 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 ## 🎓 Education
 
 ### Seoul National University of Science and Technology
+
 *March 2014 - February 2020*
 
 - Bachelor's degree in Computer Engineering
@@ -151,6 +166,6 @@ Experienced backend developer with expertise in Python, AWS, and infrastructure 
 
 <div align="center">
 
-_Updated with assist of AI at 2025-06-15T14:14:29+09:00_
+*Updated with assist of AI at 2025-06-15T14:14:29+09:00*
 
 </div>
