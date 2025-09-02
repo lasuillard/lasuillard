@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/-lasuillard-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lasuillard)
 [![이메일](https://img.shields.io/badge/-lasuillard@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lasuillard@gmail.com)
-[![블로그](https://img.shields.io/badge/-blog.lasuillard.me-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://blog.lasuillard.me)
+[![블로그](https://img.shields.io/badge/-lasuillard.me-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://lasuillard.me)
 
 Python과 AWS 기반의 백엔드 시스템 개발을 전문으로 하는 개발자입니다. 확장 가능한 백엔드 시스템과 클라우드 인프라 구축에 열정을 가지고 있으며, 개발 워크플로우 및 CI/CD 파이프라인 자동화를 통해 개발 효율성을 높이는 것을 중요하게 생각합니다. 현재는 Infrastructure as Code와 DevOps 모범 사례를 꾸준히 학습하며 더 나은 개발 문화를 만들어가고자 노력하고 있습니다.
 
