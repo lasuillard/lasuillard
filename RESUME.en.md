@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/-lasuillard-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lasuillard)
 [![Email](https://img.shields.io/badge/-lasuillard@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lasuillard@gmail.com)
-[![Blog](https://img.shields.io/badge/-blog.lasuillard.me-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://blog.lasuillard.me)
+[![Blog](https://img.shields.io/badge/lasuillard.me-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://lasuillard.me)
 
 Experienced backend developer specializing in Python and AWS-based backend systems. Passionate about building scalable backend systems and cloud infrastructure, with a strong focus on improving development efficiency through automated workflows and CI/CD pipelines. Currently learning Infrastructure as Code and DevOps best practices to foster better development culture.
 
