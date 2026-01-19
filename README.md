@@ -4,10 +4,6 @@
 </div>
 
 <div align="center">
-  <a href="https://wakatime.com/@84a6c8df-51f3-408d-a6de-23c01378b1fe">
-    <!-- AI-NOTE: Do not update date in alt text. No need to. -->
-    <img src="https://wakatime.com/badge/user/84a6c8df-51f3-408d-a6de-23c01378b1fe.svg" alt="Total time coded since Apr 27 2025" />
-  </a>
   <a href="https://myhits.vercel.app">
     <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Flasuillard?color=blue&label=hits&size=small"/>
   </a>
@@ -19,7 +15,7 @@
 - 🔧 Focused on automating development workflows and CI/CD pipelines
 - 🌱 Currently exploring containerization solutions
 - 🧠 Interested in building reliable, maintainable systems
-- 👾 Learning about Rust development for CLI tools and services
+- 👾 Learning Rust development for CLI tools and services
 
 ## 🛠️ Skills
 
@@ -33,7 +29,6 @@
 ### 🔧 Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white)
 
@@ -54,14 +49,18 @@
 ![Dev Container](https://img.shields.io/badge/-Dev_Container-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=black)
 
+## 📦 My Works
+
+Are you interested in my works? I'm maintaining them in a dedicated organization [@lasuillard-s](https://github.com/lasuillard-s).
+
 ## 💻 My Activities
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-e059736.vercel.app/api?username=lasuillard&show_icons=true" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?owner=lasuillard-s&username=lasuillard&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-e059736.vercel.app/api/top-langs/?username=lasuillard&layout=donut&exclude_repo=raindrop-client&hide=markdown,makefile" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?owner=lasuillard-s&username=lasuillard&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=donut&exclude_repo=raindrop-client&hide=HCL,makefile" />
   </a>
 </div>
 
@@ -71,12 +70,4 @@
   <a href="https://wakatime.com/@84a6c8df-51f3-408d-a6de-23c01378b1fe">
     <img width="85%" align="center" src="https://wakatime.com/share/@lasuillard/ded48ab4-b4d2-4fac-887b-b1d7d14003f3.svg" />
   </a>
-</div>
-
-<hr />
-
-<div align="center">
-
-_Updated with assist of AI at 2025-06-15T05:45:37+00:00_
-
 </div>
