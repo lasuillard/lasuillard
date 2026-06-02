@@ -36,7 +36,7 @@
 
 ### ☁️ Cloud & Infrastructure
 
-![Amazon Web Services](./assets/aws.svg)
+![Amazon Web Services](./assets/badges/aws.svg)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -50,7 +50,7 @@
 ### 🧰 Development Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](./assets/vscode.svg)
+![VS Code](./assets/badges/vscode.svg)
 ![Dev Container](https://img.shields.io/badge/-Dev_Container-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/-pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=black)
